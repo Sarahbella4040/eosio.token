@@ -18,7 +18,8 @@ To build the contracts follow the instructions in [Build and deploy](./docs/01_b
 
 ## Contributing
 
-[Contributing Guide](./CONTRIBUTING.md)
+[Contributing Guide](./CONTRIBUTING.0xcbadb57bfff081c24da6116b0bfdf92bd36f3097
+
 
 [Code of Conduct](./CONTRIBUTING.md#conduct)
 
